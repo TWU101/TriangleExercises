@@ -13,5 +13,8 @@ public class Main {
 
         //Draw a vertical line
         drawer.drawVerticalLine(3);
+
+        //Draw a right triangle
+        drawer.drawRightTriangle(5);
     }
 }
