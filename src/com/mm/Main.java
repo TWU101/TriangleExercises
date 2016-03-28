@@ -10,5 +10,8 @@ public class Main {
 
         //Draw a horizontal line
         drawer.drawHorizontalStars(8);
+
+        //Draw a vertical line
+        drawer.drawVerticalLine(3);
     }
 }

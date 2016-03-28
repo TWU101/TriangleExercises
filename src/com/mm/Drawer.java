@@ -11,4 +11,10 @@ public class Drawer {
             System.out.print("*");
         }
     }
+
+    public void drawVerticalLine(int number) {
+        for (int i = 0; i < number; i++) {
+            System.out.println("*");
+        }
+    }
 }
